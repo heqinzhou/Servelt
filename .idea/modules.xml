@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01第一个/01第一个.iml" filepath="$PROJECT_DIR$/01第一个/01第一个.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02这是第二个/02这是第二个.iml" filepath="$PROJECT_DIR$/02这是第二个/02这是第二个.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03第一个Servlet接口实现类/03第一个Servlet接口实现类.iml" filepath="$PROJECT_DIR$/03第一个Servlet接口实现类/03第一个Servlet接口实现类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-j静态资源与动态资源调用顺序/04-j静态资源与动态资源调用顺序.iml" filepath="$PROJECT_DIR$/04-j静态资源与动态资源调用顺序/04-j静态资源与动态资源调用顺序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05=Servlet请求路径的写法/05=Servlet请求路径的写法.iml" filepath="$PROJECT_DIR$/05=Servlet请求路径的写法/05=Servlet请求路径的写法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-请求路径优先级/06-请求路径优先级.iml" filepath="$PROJECT_DIR$/06-请求路径优先级/06-请求路径优先级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Servlet对象创建的时机/07_Servlet对象创建的时机.iml" filepath="$PROJECT_DIR$/07_Servlet对象创建的时机/07_Servlet对象创建的时机.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-HttpServeltResponse使用介绍/08-HttpServeltResponse使用介绍.iml" filepath="$PROJECT_DIR$/08-HttpServeltResponse使用介绍/08-HttpServeltResponse使用介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-HttpServeltResponse实现远程查询服务/09-HttpServeltResponse实现远程查询服务.iml" filepath="$PROJECT_DIR$/09-HttpServeltResponse实现远程查询服务/09-HttpServeltResponse实现远程查询服务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-HttpResquest介绍/10-HttpResquest介绍.iml" filepath="$PROJECT_DIR$/10-HttpResquest介绍/10-HttpResquest介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-远程添加工具/12-远程添加工具.iml" filepath="$PROJECT_DIR$/12-远程添加工具/12-远程添加工具.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-ServletContext共享数据实现方式一/13-ServletContext共享数据实现方式一.iml" filepath="$PROJECT_DIR$/13-ServletContext共享数据实现方式一/13-ServletContext共享数据实现方式一.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-Cookie应用-饺子馆/15-Cookie应用-饺子馆.iml" filepath="$PROJECT_DIR$/15-Cookie应用-饺子馆/15-Cookie应用-饺子馆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-HttpSession-简单购物车/16-HttpSession-简单购物车.iml" filepath="$PROJECT_DIR$/16-HttpSession-简单购物车/16-HttpSession-简单购物车.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17--cookie练习/17--cookie练习.iml" filepath="$PROJECT_DIR$/17--cookie练习/17--cookie练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet远程查询添加/Servlet远程查询添加.iml" filepath="$PROJECT_DIR$/Servlet远程查询添加/Servlet远程查询添加.iml" />
+    </modules>
+  </component>
+</project>

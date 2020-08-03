@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="09-HttpServeltResponse实现远程查询服务:war exploded">
+    <output-path>$USER_HOME$/artifacts/09_HttpServeltResponse_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="09-HttpServeltResponse实现远程查询服务/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="09-HttpServeltResponse实现远程查询服务" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

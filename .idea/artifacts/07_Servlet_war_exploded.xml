@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="07_Servlet对象创建的时机:war exploded">
+    <output-path>$USER_HOME$/artifacts/07_Servlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="07_Servlet对象创建的时机/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="07_Servlet对象创建的时机" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

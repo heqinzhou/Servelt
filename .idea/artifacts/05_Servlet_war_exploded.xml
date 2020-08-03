@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="05=Servlet请求路径的写法:war exploded">
+    <output-path>$USER_HOME$/artifacts/05_Servlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="05=Servlet请求路径的写法/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="05=Servlet请求路径的写法" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

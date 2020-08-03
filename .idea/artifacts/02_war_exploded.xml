@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="02这是第二个:war exploded">
+    <output-path>$PROJECT_DIR$/02第二个动态网页/artifacts/02_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="02这是第二个/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="02这是第二个" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
